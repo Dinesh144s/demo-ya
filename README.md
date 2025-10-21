@@ -100,7 +100,7 @@ kubectl get svc
 minikube service python-app-service
 ```
 
-It will open your app in the browser! 
+It will open our app in the browser! 
 
 ---
 
