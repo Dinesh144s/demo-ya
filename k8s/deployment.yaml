@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: flask-api
-          image: demo-flask-api
+          image: python-docker-k8s
           ports:
             - containerPort: 5000
           env:
